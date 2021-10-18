@@ -1,0 +1,17 @@
+    @media screen and (max-width:1024px) {
+        .site-header {
+            height: 67px;
+            position: relative;
+        }
+        .search {
+            margin-left: 1rem;
+            position: relative;
+        }
+        .site-header__end>.store,
+        .hotline {
+            display: none;
+        }
+        .search__form input {
+            width: 244px;
+        }
+    }
